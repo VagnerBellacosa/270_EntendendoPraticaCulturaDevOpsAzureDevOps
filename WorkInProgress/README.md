@@ -20,11 +20,11 @@ Neste projeto hands-on, você mergulhará de cabeça na filosofia DevOps e explo
 
 ###### ESPECIALISTA
 
-![author](https://hermes.dio.me/users/author/photos/899a5b89-e22c-416c-8229-71496e570689.jpg)
+! - [author](https://hermes.dio.me/users/author/photos/899a5b89-e22c-416c-8229-71496e570689.jpg)
 
 ###### Alexsandro Lechner
 
-DevOps Engineer, Oramix[**](https://www.linkedin.com/in/alexsandrolechner/)
+DevOps Engineer, Oramix - [**](https://www.linkedin.com/in/alexsandrolechner/)
 
 
 
@@ -32,13 +32,13 @@ https://web.dio.me/project/entendendo-na-pratica-a-cultura-devops-com-azure-devo
 
 
 
-[**](https://web.dio.me/track/formacao-devops-fundamentals)
+ - [**](https://web.dio.me/track/formacao-devops-fundamentals)
 
 ##### Entendendo na Prática a Cultura DevOps com Azure DevOps
 
 **
 
-[**](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/8a292a27-bf12-4992-9d06-fc09ba213333)[**](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/ee1d6ce6-61cf-4f2e-99fc-2c72ed86d07c)
+ - [**](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/8a292a27-bf12-4992-9d06-fc09ba213333) - [**](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/ee1d6ce6-61cf-4f2e-99fc-2c72ed86d07c)
 
 <iframe id="ytc8" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Entendendo na Prática a Cultura DevOps com Azure DevOps" width="100%" height="100%" src="https://www.youtube.com/embed/8CUTBT_UtOk?controls=0&amp;disablekb=1&amp;enablejsapi=1&amp;fs=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;cc_load_policy=0&amp;origin=https%3A%2F%2Fweb.dio.me&amp;widgetid=1" data-gtm-yt-inspected-19="true" style="box-sizing: inherit; max-width: none; float: none; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline;"></iframe>
 
@@ -65,7 +65,9 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Entendendo na Prática a Cultura DevOps com Azure DevOps](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/8a292a27-bf12-4992-9d06-fc09ba213333)[Qual será o Entregável do Desafio?](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/ee1d6ce6-61cf-4f2e-99fc-2c72ed86d07c)[Entendendo o Desafio](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/58b6fb8a-be2a-4e50-8a86-10f3e3ea3da5)
+ - [Entendendo na Prática a Cultura DevOps com Azure DevOps](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/8a292a27-bf12-4992-9d06-fc09ba213333)
+ - [Qual será o Entregável do Desafio?](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/ee1d6ce6-61cf-4f2e-99fc-2c72ed86d07c)
+ - [Entendendo o Desafio](https://web.dio.me/lab/entendendo-na-pratica-a-cultura-devops-com-azure-devops/learning/58b6fb8a-be2a-4e50-8a86-10f3e3ea3da5)
 
 
 
@@ -99,7 +101,7 @@ https://github.com/alexsandrolechner/auladevopsfundamentals
 
 ### **Instruções para Entrega**
 
-[Entendendo na Prática a Cultura DevOps (Hands-on).docx](https://academiapme-my.sharepoint.com/:w:/g/personal/renato_dio_me/EbkcirGfQ3xGlLJjectiN1MB-4dKyDS-h9OZMpV5EbnS-A?e=QpDego)
+ - [Entendendo na Prática a Cultura DevOps (Hands-on).docx](https://academiapme-my.sharepoint.com/:w:/g/personal/renato_dio_me/EbkcirGfQ3xGlLJjectiN1MB-4dKyDS-h9OZMpV5EbnS-A?e=QpDego)
 
  
 
